@@ -13,16 +13,16 @@
 
 ## About Me
 
-- ðŸŽ“ Computer science student who loves learning by building
-- ðŸ”­ Currently working on: **YOUR CURRENT PROJECT**
-- ðŸŒ± Currently learning: **Data Structures & Algorithms**
-- ðŸ’¬ Ask me about: **C, Python, HTML & CSS**
-- ðŸ“« Reach me at: **your.email@example.com**
-- âš¡ Fun fact: **ADD A FUN FACT**
+- Computer science student who loves learning by building
+- Currently working on: Food and Resources Management 
+- Currently learning: **Data Structures & Algorithms**
+- Ask me about: **C, Python, HTML & CSS**
+- Reach me at: **barnali0915@gmail.com**
+
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -32,16 +32,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
-
----
-
-## ðŸ“Œ Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project One](https://github.com/YOUR_USERNAME/project-one) | One-line description of what it does | C |
-| [Project Two](https://github.com/YOUR_USERNAME/project-two) | One-line description of what it does | Python |
-| [Project Three](https://github.com/YOUR_USERNAME/project-three) | One-line description of what it does | HTML, CSS |
 
 ---
 
@@ -58,7 +48,7 @@
 
 ---
 
-## ðŸ¤ Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
