@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm YOUR NAME ðŸ‘‹</h1>
+<h1 align="center">Hi there, I'm YOUR NAME Tathagata Roy‹</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Student+%26+Developer;I+write+C+and+Python;I+build+things+for+the+web" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 ---
 
-## ðŸ§‘â€ðŸ’» About Me
+## About Me
 
 - ðŸŽ“ Computer science student who loves learning by building
 - ðŸ”­ Currently working on: **YOUR CURRENT PROJECT**
