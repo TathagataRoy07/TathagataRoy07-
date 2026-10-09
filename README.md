@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm YOUR NAME Tathagata Roy‹</h1>
+<h1 align="center">Hi there, I'm Tathagata Roy‹</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Student+%26+Developer;I+write+C+and+Python;I+build+things+for+the+web" alt="Typing SVG" />
